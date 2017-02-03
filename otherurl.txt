@@ -1,1 +1,17 @@
+
+git新手教程：
+http://backlogtool.com/git-guide/cn/intro/intro1_1.html
+
+
+远程仓库地址
+git@github.com:solider911/cgit.git
+
+
 https://github.com/FreeCodeCampChina/blog.git
+
+fcc
+https://www.freecodecamp.cn/solider911
+http://www.ycku.com/course/
+
+有米登录网址：
+https://www.youmi.net/login
